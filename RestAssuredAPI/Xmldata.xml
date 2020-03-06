@@ -1,0 +1,13 @@
+<PlaceAddRequest>
+<location>
+<lat>-33.8669718</lat>
+<lng>-151.1958750</lng>
+</location>
+<accuracy>50</accuracy>
+<name>Google Shoes!</name>
+<phone_number>(02) 9374 4000</phone_number>
+<address> 48 pirrama road</address>
+<type>shoe_store</type>
+<website>http://www.google.com.au/</website>
+<language>en-AU</language>
+</PlaceAddRequest>
